@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# #coding:utf-8
+# #coding:utf-8  github test
 #filename：socclient.py
 
 import socket
@@ -20,3 +20,5 @@ def threedigit(st,ed):
                     print i,j,k
 
 threedigit(1,10)
+
+print "this is test code"
